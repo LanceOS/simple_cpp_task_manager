@@ -4,9 +4,9 @@ class TaskMaker {
         int priority;
         char type;
     public:
-        void createTask(const std::string& taskName, const std::string& taskDesc);
+       void createTask(const std::string& taskName, const std::string& taskDesc);
         
-        int getNumOfTasks();
+       int getNumOfTasks();
 
 
 }
