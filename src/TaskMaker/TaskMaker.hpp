@@ -8,6 +8,4 @@ class TaskMaker {
        bool createTask(const std::string& taskName, const std::string& taskDesc);
         
        int getNumOfTasks();
-
-
 };
